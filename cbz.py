@@ -3,7 +3,7 @@ import zipfile
 import rarfile
 import shutil
 
-source_folder = r"C:\Users\bob\Desktop\comics"
+source_folder = r""
 
 # Ensure unrar is installed
 rarfile.UNRAR_TOOL = "C:\\Program Files\\WinRAR\\unrar.exe"  # Adjust if necessary
